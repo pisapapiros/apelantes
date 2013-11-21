@@ -1,0 +1,96 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+3 0 obj
+% Page dictionary
+<< /Contents 7 0 R
+ /MediaBox [ 0
+ 0
+ 612
+ 792 ]
+ /Parent 6 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R4': class PDFCatalog 
+4 0 obj
+% Document Root
+<< /Outlines 8 0 R
+ /PageMode /UseNone
+ /Pages 6 0 R
+ /Type /Catalog >>
+endobj
+% 'R5': class PDFInfo 
+5 0 obj
+<< /Author (anonymous)
+ /CreationDate (D:20131121190254-01'00')
+ /Creator (ReportLab PDF Library - www.reportlab.com)
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (unspecified)
+ /Title (untitled) >>
+endobj
+% 'R6': class PDFPages 
+6 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 3 0 R ]
+ /Type /Pages >>
+endobj
+% 'R7': class PDFStream 
+7 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 312 >>
+stream
+GarW4:J\k^%)q[tqAnF0"ecJhD6t?%)CLV3bH[DNb#HkTZqrqN=k_;H9X1>U3WAj-"Q^-hqlKoX(:OeW@b>m$,U:r3Ci(<K5g]9b-E1)dL1-5OPBN4B:d3VS!\lEoBCJ<.njG0f26:S+YKu0t6l:IAU-p/*a-)!4o;B#&T<ksZ^)K0l?!]JB(%o;uB32;Z^/'!GQ">ufWp+,tm]4!9Yb%+cr_o'C8_Nh'1J>-L5oL3Iph3GEJ'0Rp,b,E&.7p=[RUrarGq(ufFhY"4:$^==<gtjk?,i8AkiJE?eqrH9,&b<r5p1UW$r:^%~>endstream
+endobj
+% 'R8': class PDFOutlines 
+8 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000113 00000 n
+0000000209 00000 n
+0000000372 00000 n
+0000000639 00000 n
+0000000773 00000 n
+0000001055 00000 n
+0000001160 00000 n
+0000001614 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\253O\301\373\241\235\340\033\207\257K\334\020u+S) (\253O\301\373\241\235\340\033\207\257K\334\020u+S)] 
+
+ /Info 5 0 R
+ /Root 4 0 R
+ /Size 9 >>
+startxref
+1665
+%%EOF
