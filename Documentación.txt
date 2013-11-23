@@ -44,3 +44,7 @@ base de datos con direcciones de los miembros de la red (apelantes), direcciones
 + Output: si el número de apelantes es n y el número de direcciones de autoridades es m, n*m+1 PDFs (o un PDF de n*m+1 páginas). m cartas con la dirección de la autoridad en el encabezado, el texto 1, y al final el nombre y la dirección del apelante; y una última carta con la dirección del apelante en el encabezado y el texto 2 (esta se pondría en el frente para que se viera la dirección del apelante en la ventanilla).
 + Utilidad
 Cada mes le meteríamos a la aplicación el texto 1 y el 2, y ella nos sacaría un pdf (o muchos) con tooodas las cartas. Nosotros sólo tendríamos que imprimirlas, agruparlas en grupos de m+1, y meterlas en sobres.
+
+>>>>>TO-DO
++ Tratamiento de errores y excepciones
++ Quitar los prints
