@@ -1,0 +1,46 @@
+>>>>>FORMATO
+
++Apelantes.txt
+	[Info del apelante1 en 5 lineas]
+	#
+	[Info del apelante2 en 5 lineas]
+	#
+	[Info del apelante3 en 5 lineas]
+	.
+	.
+	.
+	#
+	[Info del apelanteN en 5 lineas]
+	
++Cartas.txt:
+	#Destinatarios
+	[Info del destinatario en 5 lineas]
+	#
+	[Info del segundo destinatario en 5 lineas]
+	#
+	[Info del tercer destinatario en 5 lineas]
+	.
+	.
+	.
+	#Cuerpo1
+	[Texto formateado de la carta para los destinatarios]
+	#Cuerpo2
+	[Texto formateado de la carta de los apelantes]
+	#Fin
+	
+>>>>>CONSIDERACIONES DE USO
++ El uso de tildes, ñ y otros caracteres está permitido
++ Las lineas se permiten vacias
++ El uso incorrecto del formato indicado puede desembocar en la no creación de alguna/s cartas o el caos más absoluto
++ Si los archivos no se llaman apelantes.txt y cartas.txt o se encuentran en otra ruta distinta a la del fichero .py, hay que indicar la ruta y nombre correctos
+
+>>>>>INSTALAR
++ Python. Probado en la versión 2.7.5
++ ReportLab Toolkit
+
+>>>>>REQUISITOS FUNCIONALES		
++ Input: 
+base de datos con direcciones de los miembros de la red (apelantes), direcciones de las autoridades iraníes, texto1 (carta a las autoridades), texto 2 (para poner la información de cada mes).
++ Output: si el número de apelantes es n y el número de direcciones de autoridades es m, n*m+1 PDFs (o un PDF de n*m+1 páginas). m cartas con la dirección de la autoridad en el encabezado, el texto 1, y al final el nombre y la dirección del apelante; y una última carta con la dirección del apelante en el encabezado y el texto 2 (esta se pondría en el frente para que se viera la dirección del apelante en la ventanilla).
++ Utilidad
+Cada mes le meteríamos a la aplicación el texto 1 y el 2, y ella nos sacaría un pdf (o muchos) con tooodas las cartas. Nosotros sólo tendríamos que imprimirlas, agruparlas en grupos de m+1, y meterlas en sobres.
